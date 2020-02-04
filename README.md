@@ -1,7 +1,9 @@
 # Account Summary: Use Plaid API to obtain transaction and account data for the budget analysis.
 1. Number of Transactions by Category:
 ![](./images/num_trans_category.png)
-2. Summary of Transactions by Months:
+2. Number of Transactions by Category (pie chart):
+![](./images/spent_total_category.png)
+3. Summary of Transactions by Months:
 ![](./images/spent_monthly.png)
 # Portfolio Planner: Summarize the retirement portfolio analysis and provide charts for the Monte Carlo simulation.
 1. Simulation of 30 years performance of 60% SPY/ 40% AGG portfolio:
